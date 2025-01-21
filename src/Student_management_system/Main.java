@@ -13,7 +13,7 @@ package Student_management_system;
 * -Methods
 *   - add student
 *   - Display students
-*   - update student details (both name and id)
+*   - update student details (both name and marks)
 *   - remove student
 *   - Sorting students based on marks
 * -Usage of HashMap and ArrayList for Storing Information
