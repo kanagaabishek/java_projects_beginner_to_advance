@@ -79,11 +79,12 @@ public class Task_manager {
         for (Tasks task : tasks) {
             if(task.getTaskName().equalsIgnoreCase(taskName)){
                 tasks.remove(task);
+                System.out.println("Task Removed successfully");
                 return;
             }
             System.out.println("Task does not exist");
         }
-        System.out.println("Task Removed successfully");
+        
     }
 
     //Sorting the taskslist using priority
