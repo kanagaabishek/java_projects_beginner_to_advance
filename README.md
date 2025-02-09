@@ -2,7 +2,7 @@ The internship projects Word document contains the project summary for projects 
 
 Here's the updated content for your README file:
 
-``markdown
+```markdown
 # JP100178 Java Programming
 
 This repository contains Java projects developed during my internship. Below is a summary of the projects and instructions on how to set up and run them.
